@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 /data/invoices/*
-
+invoice_number.txt
+.DS_Store
 
 # Distribution / packaging
 .Python
